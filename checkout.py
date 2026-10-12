@@ -7,5 +7,7 @@
    def calculate_discount(total, percent):
        return total - total * percent / 100
       
-def apply_tax(total, rate):
-    return total + total * rate
+
+   def apply_tax(total, rate):
+       return total + total * rate
+   # test run 1
