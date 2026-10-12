@@ -10,3 +10,4 @@
 
    def apply_tax(total, rate):
        return total + total * rate
+   # test run 1
